@@ -3,8 +3,8 @@
 ## Candidate
 
 * **Name:** M Anil
-* **Email:** `[ma6039564340@gmail.com]`
-* **GitHub:** `[https://github.com/Anil123-eng]`
+* **Email:** `ma6039564340@gmail.com`
+* **GitHub:** `https://github.com/Anil123-eng`
 * **Selected problem:** Problem 5 — Reliable AI Conversation Runtime
 * **Demo video:** `[https://drive.google.com/file/d/1SjZYPiyvl4ne8LPGWRE0dyQ9oIioIVFB/view?usp=sharing]`
 
